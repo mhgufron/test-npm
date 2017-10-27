@@ -1,0 +1,28 @@
+{
+  "name": "test_npm",
+  "version": "1.0.1",
+  "description": "How Ton NPM tutorial freecodecamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "mhgufron",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhgufron/test-npm.git"
+  },
+  "keywords": [
+    "test",
+    "npm",
+    "mhgufron"
+  ],
+  "bugs": {
+    "url": "https://github.com/mhgufron/test-npm/issues"
+  },
+  "homepage": "https://github.com/mhgufron/test-npm#readme"
+}
